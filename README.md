@@ -1,6 +1,6 @@
 # juegoDeLaVida
 
-This is a simple Python exercise that implements Conway's Game Of Life.
+This is a simple Pygame exercise that implements Conway's Game Of Life.
 
 Keys:
 
